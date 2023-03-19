@@ -4,9 +4,6 @@ dxxczsc
 sdfsfss
 sdfgaddfgskekeidsdf here is master
 dddddd
-<<<<<<< HEAD
 aaaa
-=======
 ddddd
->>>>>>> mybranch
 dddddd
